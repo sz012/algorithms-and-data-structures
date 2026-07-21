@@ -1,4 +1,4 @@
-# ASD-AGH
+# algorithms-and-data-structures
 the most important tasks and tests from algorithms and data structures in the second semester of computer science
 
 
